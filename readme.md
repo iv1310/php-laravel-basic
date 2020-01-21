@@ -1,4 +1,4 @@
-# Using Codeship Basic to Test PHP Laravel Applications
+# Using Codeship Basic to Test PHP Laravel Applications.
 Codeship offers developers a vast array possibilities when creating a Continuous Integration and Deployment pipeline for their applications. I want to focus today on how to build a solid Continuous Integration and Deployment (CI / CD) Pipeline for a PHP Laravel application with Codeship.
 
 ## Setting Up Your Local Environment
